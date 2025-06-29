@@ -73,6 +73,3 @@ Result Evaluation: Checks if all 3 symbols match and updates the balance.
 Quit Option: Shows final balance using a message box and closes the app.
 
 👨‍💻 Developed by: Eng. Marwan Ahmed Ibrahim
-ططط
-طططط
-
