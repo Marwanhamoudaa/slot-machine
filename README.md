@@ -23,9 +23,8 @@ The user places a bet, and the slot machine spins three symbols. If all three ma
 
 ### 📦 Install PyQt5:
 
-```bash
+bash
 pip install PyQt5
-```
 🚀 How to Run
 Clone or download the project.
 
